@@ -22,3 +22,4 @@ int main()
     cout<<"Pointer pointing to value: "<<*p<<endl;
     cout<<"Address in Pointer: "<<p<<endl;
 }
+ 
